@@ -1,0 +1,394 @@
+year,cbsa_code,bls_msa_name,acs_area_name,median_gross_rent,annual_rent,median_household_income,population,metro_name_norm,acs_name_norm
+2024,10180,"Abilene, TX","Abilene, TX Metro Area",1173,14076,63390,181969,abilene tx,abilene tx
+2024,10380,"Aguadilla, PR","Aguadilla, PR Metro Area",572,6864,24351,250969,aguadilla pr,aguadilla pr
+2024,10420,"Akron, OH","Akron, OH Metro Area",1059,12708,71364,702209,akron oh,akron oh
+2024,10500,"Albany, GA","Albany, GA Metro Area",975,11700,56851,146051,albany ga,albany ga
+2024,10540,"Albany, OR","Albany, OR Metro Area",1363,16356,80422,132474,albany or,albany or
+2024,10580,"Albany-Schenectady-Troy, NY","Albany-Schenectady-Troy, NY Metro Area",1341,16092,86637,913485,albany schenectady troy ny,albany schenectady troy ny
+2024,10740,"Albuquerque, NM","Albuquerque, NM Metro Area",1220,14640,76097,929919,albuquerque nm,albuquerque nm
+2024,10780,"Alexandria, LA","Alexandria, LA Metro Area",899,10788,55909,148008,alexandria la,alexandria la
+2024,10900,"Allentown-Bethlehem-Easton, PA-NJ","Allentown-Bethlehem-Easton, PA-NJ Metro Area",1458,17496,83974,886418,allentown bethlehem easton pa nj,allentown bethlehem easton pa nj
+2024,11020,"Altoona, PA","Altoona, PA Metro Area",895,10740,66994,120269,altoona pa,altoona pa
+2024,11100,"Amarillo, TX","Amarillo, TX Metro Area",1097,13164,69595,278330,amarillo tx,amarillo tx
+2024,11180,"Ames, IA","Ames, IA Metro Area",950,11400,70873,129227,ames ia,ames ia
+2024,11200,"Amherst Town-Northampton, MA","Amherst Town-Northampton, MA Metro Area",1425,17100,81732,165399,amherst town northampton ma,amherst town northampton ma
+2024,11260,"Anchorage, AK","Anchorage, AK Metro Area",1491,17892,102698,407213,anchorage ak,anchorage ak
+2024,11460,"Ann Arbor, MI","Ann Arbor, MI Metro Area",1554,18648,90523,373875,ann arbor mi,ann arbor mi
+2024,11500,"Anniston-Oxford, AL","Anniston-Oxford, AL Metro Area",915,10980,52719,116427,anniston oxford al,anniston oxford al
+2024,11540,"Appleton, WI","Appleton, WI Metro Area",1164,13968,82501,248992,appleton wi,appleton wi
+2024,11640,"Arecibo, PR","Arecibo, PR Metro Area",537,6444,23466,180071,arecibo pr,arecibo pr
+2024,11700,"Asheville, NC","Asheville, NC Metro Area",1396,16752,76275,422333,asheville nc,asheville nc
+2024,12020,"Athens-Clarke County, GA","Athens-Clarke County, GA Metro Area",1238,14856,64951,221801,athens clarke county ga,athens clarke county ga
+2024,12060,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA Metro Area",1770,21240,92344,6409047,atlanta sandy springs roswell ga,atlanta sandy springs roswell ga
+2024,12100,"Atlantic City-Hammonton, NJ","Atlantic City-Hammonton, NJ Metro Area",1467,17604,80806,372989,atlantic city hammonton nj,atlantic city hammonton nj
+2024,12220,"Auburn-Opelika, AL","Auburn-Opelika, AL Metro Area",1111,13332,68336,205355,auburn opelika al,auburn opelika al
+2024,12260,"Augusta-Richmond County, GA-SC","Augusta-Richmond County, GA-SC Metro Area",1243,14916,72176,636658,augusta richmond county ga sc,augusta richmond county ga sc
+2024,12420,"Austin-Round Rock-San Marcos, TX","Austin-Round Rock-San Marcos, TX Metro Area",1784,21408,99897,2550637,austin round rock san marcos tx,austin round rock san marcos tx
+2024,12540,"Bakersfield-Delano, CA","Bakersfield-Delano, CA Metro Area",1479,17748,71596,922529,bakersfield delano ca,bakersfield delano ca
+2024,12580,"Baltimore-Columbia-Towson, MD","Baltimore-Columbia-Towson, MD Metro Area",1633,19596,98666,2859024,baltimore columbia towson md,baltimore columbia towson md
+2024,12620,"Bangor, ME","Bangor, ME Metro Area",1015,12180,66506,156840,bangor me,bangor me
+2024,12700,"Barnstable Town, MA","Barnstable Town, MA Metro Area",1577,18924,87925,232570,barnstable town ma,barnstable town ma
+2024,12940,"Baton Rouge, LA","Baton Rouge, LA Metro Area",1138,13656,69293,882652,baton rouge la,baton rouge la
+2024,12980,"Battle Creek, MI","Battle Creek, MI Metro Area",991,11892,65024,133785,battle creek mi,battle creek mi
+2024,13020,"Bay City, MI","Bay City, MI Metro Area",976,11712,64694,102651,bay city mi,bay city mi
+2024,13140,"Beaumont-Port Arthur, TX","Beaumont-Port Arthur, TX Metro Area",1134,13608,65775,398733,beaumont port arthur tx,beaumont port arthur tx
+2024,13220,"Beckley, WV","Beckley, WV Metro Area",935,11220,51327,110979,beckley wv,beckley wv
+2024,13380,"Bellingham, WA","Bellingham, WA Metro Area",1569,18828,86162,234954,bellingham wa,bellingham wa
+2024,13460,"Bend, OR","Bend, OR Metro Area",1834,22008,95979,264407,bend or,bend or
+2024,13740,"Billings, MT","Billings, MT Metro Area",1170,14040,77770,192531,billings mt,billings mt
+2024,13780,"Binghamton, NY","Binghamton, NY Metro Area",981,11772,65599,243971,binghamton ny,binghamton ny
+2024,13820,"Birmingham, AL","Birmingham, AL Metro Area",1262,15144,74954,1192583,birmingham al,birmingham al
+2024,13900,"Bismarck, ND","Bismarck, ND Metro Area",935,11220,86769,138774,bismarck nd,bismarck nd
+2024,13980,"Blacksburg-Christiansburg-Radford, VA","Blacksburg-Christiansburg-Radford, VA Metro Area",1123,13476,65518,183318,blacksburg christiansburg radford va,blacksburg christiansburg radford va
+2024,14010,"Bloomington, IL","Bloomington, IL Metro Area",1034,12408,81240,172069,bloomington il,bloomington il
+2024,14020,"Bloomington, IN","Bloomington, IN Metro Area",1153,13836,67243,162553,bloomington in,bloomington in
+2024,14260,"Boise City, ID","Boise City, ID Metro Area",1628,19536,88695,844979,boise city id,boise city id
+2024,14460,"Boston-Cambridge-Newton, MA-NH","Boston-Cambridge-Newton, MA-NH Metro Area",2093,25116,117825,5025517,boston cambridge newton ma nh,boston cambridge newton ma nh
+2024,14500,"Boulder, CO","Boulder, CO Metro Area",1966,23592,102697,330262,boulder co,boulder co
+2024,14540,"Bowling Green, KY","Bowling Green, KY Metro Area",1024,12288,65869,197734,bowling green ky,bowling green ky
+2024,14580,"Bozeman, MT","Bozeman, MT Metro Area",1917,23004,103918,126984,bozeman mt,bozeman mt
+2024,14740,"Bremerton-Silverdale-Port Orchard, WA","Bremerton-Silverdale-Port Orchard, WA Metro Area",1869,22428,109052,281420,bremerton silverdale port orchard wa,bremerton silverdale port orchard wa
+2024,14860,"Bridgeport-Stamford-Danbury, CT","Bridgeport-Stamford-Danbury, CT Metro Area",1895,22740,116402,972679,bridgeport stamford danbury ct,bridgeport stamford danbury ct
+2024,15180,"Brownsville-Harlingen, TX","Brownsville-Harlingen, TX Metro Area",966,11592,53267,431874,brownsville harlingen tx,brownsville harlingen tx
+2024,15260,"Brunswick-St. Simons, GA","Brunswick-St. Simons, GA Metro Area",1067,12804,69871,116080,brunswick st simons ga,brunswick st simons ga
+2024,15380,"Buffalo-Cheektowaga, NY","Buffalo-Cheektowaga, NY Metro Area",1114,13368,72300,1160172,buffalo cheektowaga ny,buffalo cheektowaga ny
+2024,15500,"Burlington, NC","Burlington, NC Metro Area",1218,14616,65966,183040,burlington nc,burlington nc
+2024,15540,"Burlington-South Burlington, VT","Burlington-South Burlington, VT Metro Area",1631,19572,89615,229550,burlington south burlington vt,burlington south burlington vt
+2024,15940,"Canton-Massillon, OH","Canton-Massillon, OH Metro Area",930,11160,69597,400551,canton massillon oh,canton massillon oh
+2024,15980,"Cape Coral-Fort Myers, FL","Cape Coral-Fort Myers, FL Metro Area",1871,22452,83602,860959,cape coral fort myers fl,cape coral fort myers fl
+2024,16020,"Cape Girardeau, MO-IL","Cape Girardeau, MO-IL Metro Area",890,10680,65809,100842,cape girardeau mo il,cape girardeau mo il
+2024,16180,"Carson City, NV","Carson City, NV Metro Area",1495,17940,62948,58148,carson city nv,carson city nv
+2024,16220,"Casper, WY","Casper, WY Metro Area",997,11964,71381,80410,casper wy,casper wy
+2024,16300,"Cedar Rapids, IA","Cedar Rapids, IA Metro Area",933,11196,75295,278677,cedar rapids ia,cedar rapids ia
+2024,16540,"Chambersburg, PA","Chambersburg, PA Metro Area",1117,13404,74019,159285,chambersburg pa,chambersburg pa
+2024,16580,"Champaign-Urbana, IL","Champaign-Urbana, IL Metro Area",1103,13236,64980,243252,champaign urbana il,champaign urbana il
+2024,16620,"Charleston, WV","Charleston, WV Metro Area",851,10212,61625,200122,charleston wv,charleston wv
+2024,16700,"Charleston-North Charleston, SC","Charleston-North Charleston, SC Metro Area",1714,20568,90307,869940,charleston north charleston sc,charleston north charleston sc
+2024,16740,"Charlotte-Concord-Gastonia, NC-SC","Charlotte-Concord-Gastonia, NC-SC Metro Area",1594,19128,85938,2883370,charlotte concord gastonia nc sc,charlotte concord gastonia nc sc
+2024,16820,"Charlottesville, VA","Charlottesville, VA Metro Area",1542,18504,95796,226140,charlottesville va,charlottesville va
+2024,16860,"Chattanooga, TN-GA","Chattanooga, TN-GA Metro Area",1265,15180,75076,588763,chattanooga tn ga,chattanooga tn ga
+2024,16940,"Cheyenne, WY","Cheyenne, WY Metro Area",1217,14604,83258,101783,cheyenne wy,cheyenne wy
+2024,16980,"Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Elgin, IL-IN Metro Area",1469,17628,90770,9406924,chicago naperville elgin il in,chicago naperville elgin il in
+2024,17020,"Chico, CA","Chico, CA Metro Area",1446,17352,65221,208334,chico ca,chico ca
+2024,17140,"Cincinnati, OH-KY-IN","Cincinnati, OH-KY-IN Metro Area",1203,14436,81489,2304804,cincinnati oh ky in,cincinnati oh ky in
+2024,17300,"Clarksville, TN-KY","Clarksville, TN-KY Metro Area",1260,15120,72347,344003,clarksville tn ky,clarksville tn ky
+2024,17410,"Cleveland, OH","Cleveland, OH Metro Area",1087,13044,72532,2171877,cleveland oh,cleveland oh
+2024,17420,"Cleveland, TN","Cleveland, TN Metro Area",1034,12408,71568,132120,cleveland tn,cleveland tn
+2024,17660,"Coeur d'Alene, ID","Coeur d'Alene, ID Metro Area",1578,18936,83061,188323,coeur d alene id,coeur d alene id
+2024,17780,"College Station-Bryan, TX","College Station-Bryan, TX Metro Area",1195,14340,61983,288771,college station bryan tx,college station bryan tx
+2024,17820,"Colorado Springs, CO","Colorado Springs, CO Metro Area",1761,21132,90760,777635,colorado springs co,colorado springs co
+2024,17860,"Columbia, MO","Columbia, MO Metro Area",1115,13380,80142,217988,columbia mo,columbia mo
+2024,17900,"Columbia, SC","Columbia, SC Metro Area",1257,15084,70788,871176,columbia sc,columbia sc
+2024,17980,"Columbus, GA-AL","Columbus, GA-AL Metro Area",1143,13716,60100,328206,columbus ga al,columbus ga al
+2024,18020,"Columbus, IN","Columbus, IN Metro Area",1090,13080,80438,84741,columbus in,columbus in
+2024,18140,"Columbus, OH","Columbus, OH Metro Area",1359,16308,82938,2225377,columbus oh,columbus oh
+2024,18580,"Corpus Christi, TX","Corpus Christi, TX Metro Area",1293,15516,68650,448853,corpus christi tx,corpus christi tx
+2024,18700,"Corvallis, OR","Corvallis, OR Metro Area",1490,17880,79179,98899,corvallis or,corvallis or
+2024,18880,"Crestview-Fort Walton Beach-Destin, FL","Crestview-Fort Walton Beach-Destin, FL Metro Area",1784,21408,81933,310149,crestview fort walton beach destin fl,crestview fort walton beach destin fl
+2024,19100,"Dallas-Fort Worth-Arlington, TX","Dallas-Fort Worth-Arlington, TX Metro Area",1718,20616,92733,8344032,dallas fort worth arlington tx,dallas fort worth arlington tx
+2024,19140,"Dalton, GA","Dalton, GA Metro Area",973,11676,66660,146386,dalton ga,dalton ga
+2024,19300,"Daphne-Fairhope-Foley, AL","Daphne-Fairhope-Foley, AL Metro Area",1440,17280,82501,261608,daphne fairhope foley al,daphne fairhope foley al
+2024,19340,"Davenport-Moline-Rock Island, IA-IL","Davenport-Moline-Rock Island, IA-IL Metro Area",971,11652,71446,381415,davenport moline rock island ia il,davenport moline rock island ia il
+2024,19430,"Dayton-Kettering-Beavercreek, OH","Dayton-Kettering-Beavercreek, OH Metro Area",1119,13428,72711,821740,dayton kettering beavercreek oh,dayton kettering beavercreek oh
+2024,19460,"Decatur, AL","Decatur, AL Metro Area",899,10788,69526,159651,decatur al,decatur al
+2024,19500,"Decatur, IL","Decatur, IL Metro Area",896,10752,61411,100737,decatur il,decatur il
+2024,19660,"Deltona-Daytona Beach-Ormond Beach, FL","Deltona-Daytona Beach-Ormond Beach, FL Metro Area",1614,19368,73701,739516,deltona daytona beach ormond beach fl,deltona daytona beach ormond beach fl
+2024,19740,"Denver-Aurora-Centennial, CO","Denver-Aurora-Centennial, CO Metro Area",1943,23316,108046,3050512,denver aurora centennial co,denver aurora centennial co
+2024,19780,"Des Moines-West Des Moines, IA","Des Moines-West Des Moines, IA Metro Area",1178,14136,85446,753913,des moines west des moines ia,des moines west des moines ia
+2024,19820,"Detroit-Warren-Dearborn, MI","Detroit-Warren-Dearborn, MI Metro Area",1248,14976,76403,4400578,detroit warren dearborn mi,detroit warren dearborn mi
+2024,20020,"Dothan, AL","Dothan, AL Metro Area",897,10764,60024,154766,dothan al,dothan al
+2024,20100,"Dover, DE","Dover, DE Metro Area",1540,18480,81117,192690,dover de,dover de
+2024,20220,"Dubuque, IA","Dubuque, IA Metro Area",1047,12564,80512,99242,dubuque ia,dubuque ia
+2024,20260,"Duluth, MN-WI","Duluth, MN-WI Metro Area",993,11916,69309,281815,duluth mn wi,duluth mn wi
+2024,20500,"Durham-Chapel Hill, NC","Durham-Chapel Hill, NC Metro Area",1598,19176,83542,620522,durham chapel hill nc,durham chapel hill nc
+2024,20580,"Eagle Pass, TX","Eagle Pass, TX Metro Area",1015,12180,52647,58829,eagle pass tx,eagle pass tx
+2024,20740,"Eau Claire, WI","Eau Claire, WI Metro Area",1135,13620,74869,176153,eau claire wi,eau claire wi
+2024,20940,"El Centro, CA","El Centro, CA Metro Area",1062,12744,60749,181724,el centro ca,el centro ca
+2024,21060,"Elizabethtown, KY","Elizabethtown, KY Metro Area",1051,12612,69080,127744,elizabethtown ky,elizabethtown ky
+2024,21140,"Elkhart-Goshen, IN","Elkhart-Goshen, IN Metro Area",1047,12564,69872,207436,elkhart goshen in,elkhart goshen in
+2024,21300,"Elmira, NY","Elmira, NY Metro Area",1029,12348,66527,81115,elmira ny,elmira ny
+2024,21340,"El Paso, TX","El Paso, TX Metro Area",1081,12972,59834,877840,el paso tx,el paso tx
+2024,21420,"Enid, OK","Enid, OK Metro Area",940,11280,67004,62007,enid ok,enid ok
+2024,21500,"Erie, PA","Erie, PA Metro Area",888,10656,63322,267750,erie pa,erie pa
+2024,21660,"Eugene-Springfield, OR","Eugene-Springfield, OR Metro Area",1470,17640,73476,382396,eugene springfield or,eugene springfield or
+2024,21780,"Evansville, IN","Evansville, IN Metro Area",1007,12084,67459,271793,evansville in,evansville in
+2024,21820,"Fairbanks-College, AK","Fairbanks-College, AK Metro Area",1499,17988,92121,94951,fairbanks college ak,fairbanks college ak
+2024,22020,"Fargo, ND-MN","Fargo, ND-MN Metro Area",997,11964,76945,267793,fargo nd mn,fargo nd mn
+2024,22140,"Farmington, NM","Farmington, NM Metro Area",946,11352,66426,120817,farmington nm,farmington nm
+2024,22180,"Fayetteville, NC","Fayetteville, NC Metro Area",1334,16008,61379,393812,fayetteville nc,fayetteville nc
+2024,22220,"Fayetteville-Springdale-Rogers, AR","Fayetteville-Springdale-Rogers, AR Metro Area",1222,14664,81208,605547,fayetteville springdale rogers ar,fayetteville springdale rogers ar
+2024,22380,"Flagstaff, AZ","Flagstaff, AZ Metro Area",1637,19644,75164,145161,flagstaff az,flagstaff az
+2024,22420,"Flint, MI","Flint, MI Metro Area",1058,12696,63594,402279,flint mi,flint mi
+2024,22500,"Florence, SC","Florence, SC Metro Area",1023,12276,56475,200474,florence sc,florence sc
+2024,22520,"Florence-Muscle Shoals, AL","Florence-Muscle Shoals, AL Metro Area",877,10524,66882,156287,florence muscle shoals al,florence muscle shoals al
+2024,22540,"Fond du Lac, WI","Fond du Lac, WI Metro Area",951,11412,74782,104269,fond du lac wi,fond du lac wi
+2024,22660,"Fort Collins-Loveland, CO","Fort Collins-Loveland, CO Metro Area",1751,21012,93276,374574,fort collins loveland co,fort collins loveland co
+2024,22900,"Fort Smith, AR-OK","Fort Smith, AR-OK Metro Area",906,10872,60327,232848,fort smith ar ok,fort smith ar ok
+2024,23060,"Fort Wayne, IN","Fort Wayne, IN Metro Area",1056,12672,71251,462978,fort wayne in,fort wayne in
+2024,23420,"Fresno, CA","Fresno, CA Metro Area",1513,18156,74983,1189557,fresno ca,fresno ca
+2024,23460,"Gadsden, AL","Gadsden, AL Metro Area",834,10008,57959,103207,gadsden al,gadsden al
+2024,23540,"Gainesville, FL","Gainesville, FL Metro Area",1377,16524,61949,360881,gainesville fl,gainesville fl
+2024,23580,"Gainesville, GA","Gainesville, GA Metro Area",1581,18972,87038,221745,gainesville ga,gainesville ga
+2024,23900,"Gettysburg, PA","Gettysburg, PA Metro Area",1171,14052,86279,107914,gettysburg pa,gettysburg pa
+2024,24020,"Glens Falls, NY","Glens Falls, NY Metro Area",1140,13680,71090,125127,glens falls ny,glens falls ny
+2024,24140,"Goldsboro, NC","Goldsboro, NC Metro Area",1087,13044,59562,120338,goldsboro nc,goldsboro nc
+2024,24220,"Grand Forks, ND-MN","Grand Forks, ND-MN Metro Area",958,11496,69959,104184,grand forks nd mn,grand forks nd mn
+2024,24260,"Grand Island, NE","Grand Island, NE Metro Area",950,11400,68960,77278,grand island ne,grand island ne
+2024,24300,"Grand Junction, CO","Grand Junction, CO Metro Area",1259,15108,75231,161260,grand junction co,grand junction co
+2024,24340,"Grand Rapids-Wyoming-Kentwood, MI","Grand Rapids-Wyoming-Kentwood, MI Metro Area",1289,15468,81541,1178826,grand rapids wyoming kentwood mi,grand rapids wyoming kentwood mi
+2024,24420,"Grants Pass, OR","Grants Pass, OR Metro Area",1249,14988,59711,88276,grants pass or,grants pass or
+2024,24500,"Great Falls, MT","Great Falls, MT Metro Area",1058,12696,62076,84523,great falls mt,great falls mt
+2024,24540,"Greeley, CO","Greeley, CO Metro Area",1579,18948,101563,369745,greeley co,greeley co
+2024,24580,"Green Bay, WI","Green Bay, WI Metro Area",1052,12624,79876,334697,green bay wi,green bay wi
+2024,24660,"Greensboro-High Point, NC","Greensboro-High Point, NC Metro Area",1171,14052,66072,800722,greensboro high point nc,greensboro high point nc
+2024,24780,"Greenville, NC","Greenville, NC Metro Area",986,11832,57031,180783,greenville nc,greenville nc
+2024,24860,"Greenville-Anderson-Greer, SC","Greenville-Anderson-Greer, SC Metro Area",1236,14832,75881,996680,greenville anderson greer sc,greenville anderson greer sc
+2024,25020,"Guayama, PR","Guayama, PR Metro Area",471,5652,22092,64434,guayama pr,guayama pr
+2024,25060,"Gulfport-Biloxi, MS","Gulfport-Biloxi, MS Metro Area",1146,13752,65256,426793,gulfport biloxi ms,gulfport biloxi ms
+2024,25180,"Hagerstown-Martinsburg, MD-WV","Hagerstown-Martinsburg, MD-WV Metro Area",1122,13464,80901,312992,hagerstown martinsburg md wv,hagerstown martinsburg md wv
+2024,25220,"Hammond, LA","Hammond, LA Metro Area",1084,13008,56626,139823,hammond la,hammond la
+2024,25260,"Hanford-Corcoran, CA","Hanford-Corcoran, CA Metro Area",1421,17052,73954,154913,hanford corcoran ca,hanford corcoran ca
+2024,25420,"Harrisburg-Carlisle, PA","Harrisburg-Carlisle, PA Metro Area",1254,15048,80904,615361,harrisburg carlisle pa,harrisburg carlisle pa
+2024,25500,"Harrisonburg, VA","Harrisonburg, VA Metro Area",1274,15288,76570,138838,harrisonburg va,harrisonburg va
+2024,25540,"Hartford-West Hartford-East Hartford, CT","Hartford-West Hartford-East Hartford, CT Metro Area",1458,17496,94419,1169048,hartford west hartford east hartford ct,hartford west hartford east hartford ct
+2024,25620,"Hattiesburg, MS","Hattiesburg, MS Metro Area",1096,13152,61871,156411,hattiesburg ms,hattiesburg ms
+2024,25740,"Helena, MT","Helena, MT Metro Area",1099,13188,94395,96327,helena mt,helena mt
+2024,25860,"Hickory-Lenoir-Morganton, NC","Hickory-Lenoir-Morganton, NC Metro Area",934,11208,64059,373031,hickory lenoir morganton nc,hickory lenoir morganton nc
+2024,25940,"Hilton Head Island-Bluffton-Port Royal, SC","Hilton Head Island-Bluffton-Port Royal, SC Metro Area",1903,22836,88348,237393,hilton head island bluffton port royal sc,hilton head island bluffton port royal sc
+2024,25980,"Hinesville, GA","Hinesville, GA Metro Area",1338,16056,66943,89657,hinesville ga,hinesville ga
+2024,26140,"Homosassa Springs, FL","Homosassa Springs, FL Metro Area",1109,13308,59481,170174,homosassa springs fl,homosassa springs fl
+2024,26300,"Hot Springs, AR","Hot Springs, AR Metro Area",1025,12300,60453,99902,hot springs ar,hot springs ar
+2024,26380,"Houma-Bayou Cane-Thibodaux, LA","Houma-Bayou Cane-Thibodaux, LA Metro Area",980,11760,62338,199206,houma bayou cane thibodaux la,houma bayou cane thibodaux la
+2024,26420,"Houston-Pasadena-The Woodlands, TX","Houston-Pasadena-The Woodlands, TX Metro Area",1469,17628,81417,7796182,houston pasadena woodlands tx,houston pasadena woodlands tx
+2024,26580,"Huntington-Ashland, WV-KY-OH","Huntington-Ashland, WV-KY-OH Metro Area",914,10968,61741,366760,huntington ashland wv ky oh,huntington ashland wv ky oh
+2024,26620,"Huntsville, AL","Huntsville, AL Metro Area",1283,15396,87049,542297,huntsville al,huntsville al
+2024,26820,"Idaho Falls, ID","Idaho Falls, ID Metro Area",1257,15084,85767,171773,idaho falls id,idaho falls id
+2024,26900,"Indianapolis-Carmel-Greenwood, IN","Indianapolis-Carmel-Greenwood, IN Metro Area",1273,15276,80239,2173288,indianapolis carmel greenwood in,indianapolis carmel greenwood in
+2024,26980,"Iowa City, IA","Iowa City, IA Metro Area",1099,13188,75225,182711,iowa city ia,iowa city ia
+2024,27060,"Ithaca, NY","Ithaca, NY Metro Area",1515,18180,71948,105602,ithaca ny,ithaca ny
+2024,27100,"Jackson, MI","Jackson, MI Metro Area",965,11580,66155,160233,jackson mi,jackson mi
+2024,27140,"Jackson, MS","Jackson, MS Metro Area",1100,13200,64835,605803,jackson ms,jackson ms
+2024,27180,"Jackson, TN","Jackson, TN Metro Area",1102,13224,62566,183680,jackson tn,jackson tn
+2024,27260,"Jacksonville, FL","Jacksonville, FL Metro Area",1625,19500,82053,1760548,jacksonville fl,jacksonville fl
+2024,27340,"Jacksonville, NC","Jacksonville, NC Metro Area",1389,16668,73004,212954,jacksonville nc,jacksonville nc
+2024,27500,"Janesville-Beloit, WI","Janesville-Beloit, WI Metro Area",1150,13800,70556,165461,janesville beloit wi,janesville beloit wi
+2024,27620,"Jefferson City, MO","Jefferson City, MO Metro Area",874,10488,73164,152832,jefferson city mo,jefferson city mo
+2024,27740,"Johnson City, TN","Johnson City, TN Metro Area",993,11916,57462,215679,johnson city tn,johnson city tn
+2024,27780,"Johnstown, PA","Johnstown, PA Metro Area",712,8544,61786,130108,johnstown pa,johnstown pa
+2024,27860,"Jonesboro, AR","Jonesboro, AR Metro Area",870,10440,55486,138152,jonesboro ar,jonesboro ar
+2024,27900,"Joplin, MO-KS","Joplin, MO-KS Metro Area",1001,12012,62796,207131,joplin mo ks,joplin mo ks
+2024,27980,"Kahului-Wailuku, HI","Kahului-Wailuku, HI Metro Area",1943,23316,101168,163769,kahului wailuku hi,kahului wailuku hi
+2024,28020,"Kalamazoo-Portage, MI","Kalamazoo-Portage, MI Metro Area",1080,12960,71069,264780,kalamazoo portage mi,kalamazoo portage mi
+2024,28100,"Kankakee, IL","Kankakee, IL Metro Area",1093,13116,76743,106410,kankakee il,kankakee il
+2024,28140,"Kansas City, MO-KS","Kansas City, MO-KS Metro Area",1315,15780,83785,2254288,kansas city mo ks,kansas city mo ks
+2024,28420,"Kennewick-Richland, WA","Kennewick-Richland, WA Metro Area",1360,16320,89573,319428,kennewick richland wa,kennewick richland wa
+2024,28450,"Kenosha, WI","Kenosha, WI Metro Area",1289,15468,83529,168754,kenosha wi,kenosha wi
+2024,28660,"Killeen-Temple, TX","Killeen-Temple, TX Metro Area",1283,15396,68465,509487,killeen temple tx,killeen temple tx
+2024,28700,"Kingsport-Bristol, TN-VA","Kingsport-Bristol, TN-VA Metro Area",917,11004,62096,314259,kingsport bristol tn va,kingsport bristol tn va
+2024,28740,"Kingston, NY","Kingston, NY Metro Area",1586,19032,87847,182977,kingston ny,kingston ny
+2024,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY","Kiryas Joel-Poughkeepsie-Newburgh, NY Metro Area",1688,20256,95125,711730,kiryas joel poughkeepsie newburgh ny,kiryas joel poughkeepsie newburgh ny
+2024,28940,"Knoxville, TN","Knoxville, TN Metro Area",1219,14628,74184,957376,knoxville tn,knoxville tn
+2024,29020,"Kokomo, IN","Kokomo, IN Metro Area",877,10524,65267,84082,kokomo in,kokomo in
+2024,29100,"La Crosse-Onalaska, WI-MN","La Crosse-Onalaska, WI-MN Metro Area",1087,13044,75117,170763,la crosse onalaska wi mn,la crosse onalaska wi mn
+2024,29180,"Lafayette, LA","Lafayette, LA Metro Area",968,11616,60527,419704,lafayette la,lafayette la
+2024,29200,"Lafayette-West Lafayette, IN","Lafayette-West Lafayette, IN Metro Area",1126,13512,67515,231353,lafayette west lafayette in,lafayette west lafayette in
+2024,29340,"Lake Charles, LA","Lake Charles, LA Metro Area",977,11724,65144,243719,lake charles la,lake charles la
+2024,29420,"Lake Havasu City-Kingman, AZ","Lake Havasu City-Kingman, AZ Metro Area",1120,13440,60952,226479,lake havasu city kingman az,lake havasu city kingman az
+2024,29460,"Lakeland-Winter Haven, FL","Lakeland-Winter Haven, FL Metro Area",1484,17808,66779,852878,lakeland winter haven fl,lakeland winter haven fl
+2024,29540,"Lancaster, PA","Lancaster, PA Metro Area",1449,17388,85802,563293,lancaster pa,lancaster pa
+2024,29620,"Lansing-East Lansing, MI","Lansing-East Lansing, MI Metro Area",1111,13332,72010,479971,lansing east lansing mi,lansing east lansing mi
+2024,29700,"Laredo, TX","Laredo, TX Metro Area",1056,12672,60580,272823,laredo tx,laredo tx
+2024,29740,"Las Cruces, NM","Las Cruces, NM Metro Area",1031,12372,61154,229366,las cruces nm,las cruces nm
+2024,29820,"Las Vegas-Henderson-North Las Vegas, NV","Las Vegas-Henderson-North Las Vegas, NV Metro Area",1739,20868,80028,2398871,las vegas henderson north las vegas nv,las vegas henderson north las vegas nv
+2024,29940,"Lawrence, KS","Lawrence, KS Metro Area",1100,13200,72449,121989,lawrence ks,lawrence ks
+2024,30020,"Lawton, OK","Lawton, OK Metro Area",1001,12012,61848,126503,lawton ok,lawton ok
+2024,30140,"Lebanon, PA","Lebanon, PA Metro Area",1159,13908,72275,145319,lebanon pa,lebanon pa
+2024,30300,"Lewiston, ID-WA","Lewiston, ID-WA Metro Area",1171,14052,77382,65370,lewiston id wa,lewiston id wa
+2024,30340,"Lewiston-Auburn, ME","Lewiston-Auburn, ME Metro Area",1076,12912,68775,115272,lewiston auburn me,lewiston auburn me
+2024,30460,"Lexington-Fayette, KY","Lexington-Fayette, KY Metro Area",1245,14940,71444,533366,lexington fayette ky,lexington fayette ky
+2024,30500,"Lexington Park, MD","Lexington Park, MD Metro Area",1733,20796,122406,211382,lexington park md,lexington park md
+2024,30620,"Lima, OH","Lima, OH Metro Area",889,10668,67668,100866,lima oh,lima oh
+2024,30700,"Lincoln, NE","Lincoln, NE Metro Area",1114,13368,74935,351919,lincoln ne,lincoln ne
+2024,30780,"Little Rock-North Little Rock-Conway, AR","Little Rock-North Little Rock-Conway, AR Metro Area",1093,13116,68344,770959,little rock north little rock conway ar,little rock north little rock conway ar
+2024,30860,"Logan, UT-ID","Logan, UT-ID Metro Area",1311,15732,81144,160053,logan ut id,logan ut id
+2024,30980,"Longview, TX","Longview, TX Metro Area",1091,13092,65711,295490,longview tx,longview tx
+2024,31020,"Longview-Kelso, WA","Longview-Kelso, WA Metro Area",1173,14076,78460,113982,longview kelso wa,longview kelso wa
+2024,31080,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA Metro Area",2114,25368,96405,12927614,los angeles long beach anaheim ca,los angeles long beach anaheim ca
+2024,31140,"Louisville/Jefferson County, KY-IN","Louisville/Jefferson County, KY-IN Metro Area",1140,13680,74305,1396762,louisville jefferson county ky in,louisville jefferson county ky in
+2024,31180,"Lubbock, TX","Lubbock, TX Metro Area",1207,14484,64469,367530,lubbock tx,lubbock tx
+2024,31340,"Lynchburg, VA","Lynchburg, VA Metro Area",1065,12780,65735,267427,lynchburg va,lynchburg va
+2024,31420,"Macon-Bibb County, GA","Macon-Bibb County, GA Metro Area",1104,13248,56638,236551,macon bibb county ga,macon bibb county ga
+2024,31540,"Madison, WI","Madison, WI Metro Area",1437,17244,89714,707606,madison wi,madison wi
+2024,31700,"Manchester-Nashua, NH","Manchester-Nashua, NH Metro Area",1714,20568,106013,430462,manchester nashua nh,manchester nashua nh
+2024,31740,"Manhattan, KS","Manhattan, KS Metro Area",1070,12840,70324,134892,manhattan ks,manhattan ks
+2024,31860,"Mankato, MN","Mankato, MN Metro Area",1049,12588,74426,105193,mankato mn,mankato mn
+2024,31900,"Mansfield, OH","Mansfield, OH Metro Area",862,10344,66312,124853,mansfield oh,mansfield oh
+2024,32420,"Mayaguez, PR","Mayagüez, PR Metro Area",519,6228,21554,205687,mayag uez pr,mayag ez pr
+2024,32580,"McAllen-Edinburg-Mission, TX","McAllen-Edinburg-Mission, TX Metro Area",971,11652,56720,914820,mcallen edinburg mission tx,mcallen edinburg mission tx
+2024,32780,"Medford, OR","Medford, OR Metro Area",1369,16428,74653,221331,medford or,medford or
+2024,32820,"Memphis, TN-MS-AR","Memphis, TN-MS-AR Metro Area",1330,15960,68124,1337653,memphis tn ms ar,memphis tn ms ar
+2024,32900,"Merced, CA","Merced, CA Metro Area",1462,17544,64980,296774,merced ca,merced ca
+2024,33100,"Miami-Fort Lauderdale-West Palm Beach, FL","Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",2083,24996,80625,6457988,miami fort lauderdale west palm beach fl,miami fort lauderdale west palm beach fl
+2024,33140,"Michigan City-La Porte, IN","Michigan City-La Porte, IN Metro Area",999,11988,66849,111348,michigan city la porte in,michigan city la porte in
+2024,33220,"Midland, MI","Midland, MI Metro Area",1031,12372,78046,84022,midland mi,midland mi
+2024,33260,"Midland, TX","Midland, TX Metro Area",1558,18696,89627,188071,midland tx,midland tx
+2024,33340,"Milwaukee-Waukesha, WI","Milwaukee-Waukesha, WI Metro Area",1177,14124,77919,1574452,milwaukee waukesha wi,milwaukee waukesha wi
+2024,33460,"Minneapolis-St. Paul-Bloomington, MN-WI","Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",1444,17328,97928,3757952,minneapolis st paul bloomington mn wi,minneapolis st paul bloomington mn wi
+2024,33500,"Minot, ND","Minot, ND Metro Area",1091,13092,70782,75815,minot nd,minot nd
+2024,33540,"Missoula, MT","Missoula, MT Metro Area",1332,15984,75290,126608,missoula mt,missoula mt
+2024,33660,"Mobile, AL","Mobile, AL Metro Area",1106,13272,60379,412339,mobile al,mobile al
+2024,33700,"Modesto, CA","Modesto, CA Metro Area",1753,21036,78673,556972,modesto ca,modesto ca
+2024,33740,"Monroe, LA","Monroe, LA Metro Area",928,11136,56468,222072,monroe la,monroe la
+2024,33780,"Monroe, MI","Monroe, MI Metro Area",1002,12024,75766,156045,monroe mi,monroe mi
+2024,33860,"Montgomery, AL","Montgomery, AL Metro Area",1141,13692,66706,386587,montgomery al,montgomery al
+2024,34060,"Morgantown, WV","Morgantown, WV Metro Area",973,11676,67242,142752,morgantown wv,morgantown wv
+2024,34100,"Morristown, TN","Morristown, TN Metro Area",876,10512,62456,126932,morristown tn,morristown tn
+2024,34580,"Mount Vernon-Anacortes, WA","Mount Vernon-Anacortes, WA Metro Area",1649,19788,91204,132736,mount vernon anacortes wa,mount vernon anacortes wa
+2024,34620,"Muncie, IN","Muncie, IN Metro Area",944,11328,54232,112951,muncie in,muncie in
+2024,34740,"Muskegon-Norton Shores, MI","Muskegon-Norton Shores, MI Metro Area",977,11724,60829,177428,muskegon norton shores mi,muskegon norton shores mi
+2024,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC","Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",1433,17196,68534,413391,myrtle beach conway north myrtle beach sc,myrtle beach conway north myrtle beach sc
+2024,34900,"Napa, CA","Napa, CA Metro Area",2642,31704,122754,132727,napa ca,napa ca
+2024,34940,"Naples-Marco Island, FL","Naples-Marco Island, FL Metro Area",2032,24384,95862,416233,naples marco island fl,naples marco island fl
+2024,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN","Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1627,19524,88800,2151715,nashville davidson murfreesboro franklin tn,nashville davidson murfreesboro franklin tn
+2024,35300,"New Haven, CT","New Haven, CT Metro Area",1600,19200,89645,576718,new haven ct,new haven ct
+2024,35380,"New Orleans-Metairie, LA","New Orleans-Metairie, LA Metro Area",1262,15144,62373,966230,new orleans metairie la,new orleans metairie la
+2024,35620,"New York-Newark-Jersey City, NY-NJ","New York-Newark-Jersey City, NY-NJ Metro Area",1851,22212,99852,19940274,new york newark jersey city ny nj,new york newark jersey city ny nj
+2024,35660,"Niles, MI","Niles, MI Metro Area",910,10920,68984,152703,niles mi,niles mi
+2024,35840,"North Port-Bradenton-Sarasota, FL","North Port-Bradenton-Sarasota, FL Metro Area",1920,23040,82106,934956,north port bradenton sarasota fl,north port bradenton sarasota fl
+2024,35980,"Norwich-New London-Willimantic, CT","Norwich-New London-Willimantic, CT Metro Area",1440,17280,89431,282602,norwich new london willimantic ct,norwich new london willimantic ct
+2024,36100,"Ocala, FL","Ocala, FL Metro Area",1523,18276,64410,428905,ocala fl,ocala fl
+2024,36220,"Odessa, TX","Odessa, TX Metro Area",1337,16044,78058,170022,odessa tx,odessa tx
+2024,36260,"Ogden, UT","Ogden, UT Metro Area",1641,19692,98456,669210,ogden ut,ogden ut
+2024,36420,"Oklahoma City, OK","Oklahoma City, OK Metro Area",1162,13944,72930,1497821,oklahoma city ok,oklahoma city ok
+2024,36500,"Olympia-Lacey-Tumwater, WA","Olympia-Lacey-Tumwater, WA Metro Area",1829,21948,98264,302912,olympia lacey tumwater wa,olympia lacey tumwater wa
+2024,36540,"Omaha, NE-IA","Omaha, NE-IA Metro Area",1230,14760,84524,1001186,omaha ne ia,omaha ne ia
+2024,36740,"Orlando-Kissimmee-Sanford, FL","Orlando-Kissimmee-Sanford, FL Metro Area",1877,22524,81044,2940513,orlando kissimmee sanford fl,orlando kissimmee sanford fl
+2024,36780,"Oshkosh-Neenah, WI","Oshkosh-Neenah, WI Metro Area",1029,12348,71146,173307,oshkosh neenah wi,oshkosh neenah wi
+2024,36980,"Owensboro, KY","Owensboro, KY Metro Area",853,10236,67068,112812,owensboro ky,owensboro ky
+2024,37100,"Oxnard-Thousand Oaks-Ventura, CA","Oxnard-Thousand Oaks-Ventura, CA Metro Area",2313,27756,114238,835427,oxnard thousand oaks ventura ca,oxnard thousand oaks ventura ca
+2024,37140,"Paducah, KY-IL","Paducah, KY-IL Metro Area",823,9876,64271,99814,paducah ky il,paducah ky il
+2024,37340,"Palm Bay-Melbourne-Titusville, FL","Palm Bay-Melbourne-Titusville, FL Metro Area",1681,20172,78196,658447,palm bay melbourne titusville fl,palm bay melbourne titusville fl
+2024,37460,"Panama City-Panama City Beach, FL","Panama City-Panama City Beach, FL Metro Area",1543,18516,77625,226221,panama city panama city beach fl,panama city panama city beach fl
+2024,37620,"Parkersburg-Vienna, WV","Parkersburg-Vienna, WV Metro Area",879,10548,54861,87120,parkersburg vienna wv,parkersburg vienna wv
+2024,37860,"Pensacola-Ferry Pass-Brent, FL","Pensacola-Ferry Pass-Brent, FL Metro Area",1481,17772,74248,538928,pensacola ferry pass brent fl,pensacola ferry pass brent fl
+2024,37900,"Peoria, IL","Peoria, IL Metro Area",1003,12036,74352,365668,peoria il,peoria il
+2024,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",1567,18804,90850,6330422,philadelphia camden wilmington pa nj de md,philadelphia camden wilmington pa nj de md
+2024,38060,"Phoenix-Mesa-Chandler, AZ","Phoenix-Mesa-Chandler, AZ Metro Area",1819,21828,90133,5186958,phoenix mesa chandler az,phoenix mesa chandler az
+2024,38240,"Pinehurst-Southern Pines, NC","Pinehurst-Southern Pines, NC Metro Area",1346,16152,85002,108417,pinehurst southern pines nc,pinehurst southern pines nc
+2024,38300,"Pittsburgh, PA","Pittsburgh, PA Metro Area",1083,12996,77214,2429917,pittsburgh pa,pittsburgh pa
+2024,38340,"Pittsfield, MA","Pittsfield, MA Metro Area",1102,13224,77682,128726,pittsfield ma,pittsfield ma
+2024,38540,"Pocatello, ID","Pocatello, ID Metro Area",1076,12912,69612,91010,pocatello id,pocatello id
+2024,38660,"Ponce, PR","Ponce, PR Metro Area",516,6192,23324,265039,ponce pr,ponce pr
+2024,38860,"Portland-South Portland, ME","Portland-South Portland, ME Metro Area",1590,19080,93062,571534,portland south portland me,portland south portland me
+2024,38900,"Portland-Vancouver-Hillsboro, OR-WA","Portland-Vancouver-Hillsboro, OR-WA Metro Area",1767,21204,98994,2537070,portland vancouver hillsboro or wa,portland vancouver hillsboro or wa
+2024,38940,"Port St. Lucie, FL","Port St. Lucie, FL Metro Area",1722,20664,80659,556336,port st lucie fl,port st lucie fl
+2024,39150,"Prescott Valley-Prescott, AZ","Prescott Valley-Prescott, AZ Metro Area",1542,18504,74788,252013,prescott valley prescott az,prescott valley prescott az
+2024,39300,"Providence-Warwick, RI-MA","Providence-Warwick, RI-MA Metro Area",1396,16752,82870,1700901,providence warwick ri ma,providence warwick ri ma
+2024,39340,"Provo-Orem-Lehi, UT","Provo-Orem-Lehi, UT Metro Area",1611,19332,101014,760154,provo orem lehi ut,provo orem lehi ut
+2024,39380,"Pueblo, CO","Pueblo, CO Metro Area",1128,13536,62128,169866,pueblo co,pueblo co
+2024,39460,"Punta Gorda, FL","Punta Gorda, FL Metro Area",1843,22116,72868,212122,punta gorda fl,punta gorda fl
+2024,39540,"Racine-Mount Pleasant, WI","Racine-Mount Pleasant, WI Metro Area",1202,14424,77830,198651,racine mount pleasant wi,racine mount pleasant wi
+2024,39580,"Raleigh-Cary, NC","Raleigh-Cary, NC Metro Area",1674,20088,102144,1562009,raleigh cary nc,raleigh cary nc
+2024,39660,"Rapid City, SD","Rapid City, SD Metro Area",1168,14016,78056,153470,rapid city sd,rapid city sd
+2024,39740,"Reading, PA","Reading, PA Metro Area",1195,14340,78074,439117,reading pa,reading pa
+2024,39820,"Redding, CA","Redding, CA Metro Area",1420,17040,71140,181121,redding ca,redding ca
+2024,39900,"Reno, NV","Reno, NV Metro Area",1680,20160,89159,575266,reno nv,reno nv
+2024,40060,"Richmond, VA","Richmond, VA Metro Area",1546,18552,83460,1368219,richmond va,richmond va
+2024,40140,"Riverside-San Bernardino-Ontario, CA","Riverside-San Bernardino-Ontario, CA Metro Area",2006,24072,91013,4744214,riverside san bernardino ontario ca,riverside san bernardino ontario ca
+2024,40220,"Roanoke, VA","Roanoke, VA Metro Area",1188,14256,72557,315456,roanoke va,roanoke va
+2024,40340,"Rochester, MN","Rochester, MN Metro Area",1378,16536,90584,230742,rochester mn,rochester mn
+2024,40380,"Rochester, NY","Rochester, NY Metro Area",1172,14064,76453,1057218,rochester ny,rochester ny
+2024,40420,"Rockford, IL","Rockford, IL Metro Area",1014,12168,70111,337103,rockford il,rockford il
+2024,40580,"Rocky Mount, NC","Rocky Mount, NC Metro Area",1000,12000,57802,147114,rocky mount nc,rocky mount nc
+2024,40660,"Rome, GA","Rome, GA Metro Area",1097,13164,66459,101390,rome ga,rome ga
+2024,40900,"Sacramento-Roseville-Folsom, CA","Sacramento-Roseville-Folsom, CA Metro Area",1904,22848,98775,2463127,sacramento roseville folsom ca,sacramento roseville folsom ca
+2024,40980,"Saginaw, MI","Saginaw, MI Metro Area",972,11664,61455,187714,saginaw mi,saginaw mi
+2024,41060,"St. Cloud, MN","St. Cloud, MN Metro Area",1039,12468,75688,205878,st cloud mn,st cloud mn
+2024,41100,"St. George, UT","St. George, UT Metro Area",1653,19836,86983,207943,st george ut,st george ut
+2024,41140,"St. Joseph, MO-KS","St. Joseph, MO-KS Metro Area",882,10584,66180,119186,st joseph mo ks,st joseph mo ks
+2024,41180,"St. Louis, MO-IL","St. Louis, MO-IL Metro Area",1154,13848,81679,2809527,st louis mo il,st louis mo il
+2024,41420,"Salem, OR","Salem, OR Metro Area",1526,18312,82732,443416,salem or,salem or
+2024,41500,"Salinas, CA","Salinas, CA Metro Area",2007,24084,93290,436251,salinas ca,salinas ca
+2024,41540,"Salisbury, MD","Salisbury, MD Metro Area",1388,16656,70389,131570,salisbury md,salisbury md
+2024,41620,"Salt Lake City-Murray, UT","Salt Lake City-Murray, UT Metro Area",1659,19908,100548,1300762,salt lake city murray ut,salt lake city murray ut
+2024,41660,"San Angelo, TX","San Angelo, TX Metro Area",1199,14388,69726,121408,san angelo tx,san angelo tx
+2024,41700,"San Antonio-New Braunfels, TX","San Antonio-New Braunfels, TX Metro Area",1422,17064,78112,2763006,san antonio new braunfels tx,san antonio new braunfels tx
+2024,41740,"San Diego-Chula Vista-Carlsbad, CA","San Diego-Chula Vista-Carlsbad, CA Metro Area",2336,28032,109132,3298799,san diego chula vista carlsbad ca,san diego chula vista carlsbad ca
+2024,41780,"Sandusky, OH","Sandusky, OH Metro Area",924,11088,74627,113533,sandusky oh,sandusky oh
+2024,41860,"San Francisco-Oakland-Fremont, CA","San Francisco-Oakland-Fremont, CA Metro Area",2435,29220,135590,4648486,san francisco oakland fremont ca,san francisco oakland fremont ca
+2024,41940,"San Jose-Sunnyvale-Santa Clara, CA","San Jose-Sunnyvale-Santa Clara, CA Metro Area",2827,33924,164801,1995484,san jose sunnyvale santa clara ca,san jose sunnyvale santa clara ca
+2024,41980,"San Juan-Bayamon-Caguas, PR","San Juan-Bayamón-Caguas, PR Metro Area",620,7440,30640,2036751,san juan bayamon caguas pr,san juan bayam n caguas pr
+2024,42020,"San Luis Obispo-Paso Robles, CA","San Luis Obispo-Paso Robles, CA Metro Area",2110,25320,100724,281843,san luis obispo paso robles ca,san luis obispo paso robles ca
+2024,42100,"Santa Cruz-Watsonville, CA","Santa Cruz-Watsonville, CA Metro Area",2293,27516,107893,262406,santa cruz watsonville ca,santa cruz watsonville ca
+2024,42140,"Santa Fe, NM","Santa Fe, NM Metro Area",1586,19032,88719,157765,santa fe nm,santa fe nm
+2024,42200,"Santa Maria-Santa Barbara, CA","Santa Maria-Santa Barbara, CA Metro Area",2108,25296,95637,444500,santa maria santa barbara ca,santa maria santa barbara ca
+2024,42220,"Santa Rosa-Petaluma, CA","Santa Rosa-Petaluma, CA Metro Area",2229,26748,107274,485375,santa rosa petaluma ca,santa rosa petaluma ca
+2024,42340,"Savannah, GA","Savannah, GA Metro Area",1589,19068,80518,431589,savannah ga,savannah ga
+2024,42540,"Scranton--Wilkes-Barre, PA","Scranton--Wilkes-Barre, PA Metro Area",1072,12864,68079,574009,scranton wilkes barre pa,scranton wilkes barre pa
+2024,42660,"Seattle-Tacoma-Bellevue, WA","Seattle-Tacoma-Bellevue, WA Metro Area",2050,24600,112388,4145494,seattle tacoma bellevue wa,seattle tacoma bellevue wa
+2024,42680,"Sebastian-Vero Beach-West Vero Corridor, FL","Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",1509,18108,79849,172139,sebastian vero beach west vero corridor fl,sebastian vero beach west vero corridor fl
+2024,42700,"Sebring, FL","Sebring, FL Metro Area",1183,14196,57580,109778,sebring fl,sebring fl
+2024,43100,"Sheboygan, WI","Sheboygan, WI Metro Area",976,11712,71992,118331,sheboygan wi,sheboygan wi
+2024,43300,"Sherman-Denison, TX","Sherman-Denison, TX Metro Area",1482,17784,72260,150532,sherman denison tx,sherman denison tx
+2024,43340,"Shreveport-Bossier City, LA","Shreveport-Bossier City, LA Metro Area",990,11880,57514,383269,shreveport bossier city la,shreveport bossier city la
+2024,43420,"Sierra Vista-Douglas, AZ","Sierra Vista-Douglas, AZ Metro Area",960,11520,60723,125773,sierra vista douglas az,sierra vista douglas az
+2024,43580,"Sioux City, IA-NE-SD","Sioux City, IA-NE-SD Metro Area",1002,12024,80163,145567,sioux city ia ne sd,sioux city ia ne sd
+2024,43620,"Sioux Falls, SD-MN","Sioux Falls, SD-MN Metro Area",1094,13128,82509,308711,sioux falls sd mn,sioux falls sd mn
+2024,43640,"Slidell-Mandeville-Covington, LA","Slidell-Mandeville-Covington, LA Metro Area",1305,15660,82337,277615,slidell mandeville covington la,slidell mandeville covington la
+2024,43780,"South Bend-Mishawaka, IN-MI","South Bend-Mishawaka, IN-MI Metro Area",1101,13212,63894,325294,south bend mishawaka in mi,south bend mishawaka in mi
+2024,43900,"Spartanburg, SC","Spartanburg, SC Metro Area",1139,13668,68505,395934,spartanburg sc,spartanburg sc
+2024,44060,"Spokane-Spokane Valley, WA","Spokane-Spokane Valley, WA Metro Area",1405,16860,84350,604962,spokane spokane valley wa,spokane spokane valley wa
+2024,44100,"Springfield, IL","Springfield, IL Metro Area",1047,12564,80190,206371,springfield il,springfield il
+2024,44140,"Springfield, MA","Springfield, MA Metro Area",1158,13896,71402,464151,springfield ma,springfield ma
+2024,44180,"Springfield, MO","Springfield, MO Metro Area",1019,12228,67219,500004,springfield mo,springfield mo
+2024,44220,"Springfield, OH","Springfield, OH Metro Area",913,10956,64897,134985,springfield oh,springfield oh
+2024,44300,"State College, PA","State College, PA Metro Area",1189,14268,77110,159805,state college pa,state college pa
+2024,44420,"Staunton-Stuarts Draft, VA","Staunton-Stuarts Draft, VA Metro Area",1202,14424,73653,128481,staunton stuarts draft va,staunton stuarts draft va
+2024,44700,"Stockton-Lodi, CA","Stockton-Lodi, CA Metro Area",1788,21456,93038,816108,stockton lodi ca,stockton lodi ca
+2024,44940,"Sumter, SC","Sumter, SC Metro Area",1110,13320,56824,104776,sumter sc,sumter sc
+2024,45060,"Syracuse, NY","Syracuse, NY Metro Area",1114,13368,76313,655189,syracuse ny,syracuse ny
+2024,45220,"Tallahassee, FL","Tallahassee, FL Metro Area",1330,15960,65009,399098,tallahassee fl,tallahassee fl
+2024,45300,"Tampa-St. Petersburg-Clearwater, FL","Tampa-St. Petersburg-Clearwater, FL Metro Area",1776,21312,78275,3424560,tampa st petersburg clearwater fl,tampa st petersburg clearwater fl
+2024,45460,"Terre Haute, IN","Terre Haute, IN Metro Area",893,10716,59209,166552,terre haute in,terre haute in
+2024,45500,"Texarkana, TX-AR","Texarkana, TX-AR Metro Area",939,11268,58000,146210,texarkana tx ar,texarkana tx ar
+2024,45780,"Toledo, OH","Toledo, OH Metro Area",949,11388,66095,601396,toledo oh,toledo oh
+2024,45820,"Topeka, KS","Topeka, KS Metro Area",990,11880,74389,232648,topeka ks,topeka ks
+2024,45900,"Traverse City, MI","Traverse City, MI Metro Area",1329,15948,82805,156634,traverse city mi,traverse city mi
+2024,45940,"Trenton-Princeton, NJ","Trenton-Princeton, NJ Metro Area",1744,20928,104148,392138,trenton princeton nj,trenton princeton nj
+2024,46060,"Tucson, AZ","Tucson, AZ Metro Area",1300,15600,72067,1080149,tucson az,tucson az
+2024,46140,"Tulsa, OK","Tulsa, OK Metro Area",1115,13380,69658,1060423,tulsa ok,tulsa ok
+2024,46220,"Tuscaloosa, AL","Tuscaloosa, AL Metro Area",1042,12504,62280,281081,tuscaloosa al,tuscaloosa al
+2024,46300,"Twin Falls, ID","Twin Falls, ID Metro Area",1121,13452,76404,121319,twin falls id,twin falls id
+2024,46340,"Tyler, TX","Tyler, TX Metro Area",1272,15264,76087,249091,tyler tx,tyler tx
+2024,46520,"Urban Honolulu, HI","Urban Honolulu, HI Metro Area",2001,24012,105205,998747,urban honolulu hi,urban honolulu hi
+2024,46540,"Utica-Rome, NY","Utica-Rome, NY Metro Area",888,10656,71584,287932,utica rome ny,utica rome ny
+2024,46660,"Valdosta, GA","Valdosta, GA Metro Area",1092,13104,59180,153179,valdosta ga,valdosta ga
+2024,46700,"Vallejo, CA","Vallejo, CA Metro Area",2223,26676,94930,455101,vallejo ca,vallejo ca
+2024,47020,"Victoria, TX","Victoria, TX Metro Area",1118,13416,65829,98446,victoria tx,victoria tx
+2024,47220,"Vineland, NJ","Vineland, NJ Metro Area",1201,14412,68067,155678,vineland nj,vineland nj
+2024,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC","Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",1556,18672,82402,1796689,virginia beach chesapeake norfolk va nc,virginia beach chesapeake norfolk va nc
+2024,47300,"Visalia, CA","Visalia, CA Metro Area",1384,16608,69880,483546,visalia ca,visalia ca
+2024,47380,"Waco, TX","Waco, TX Metro Area",1238,14856,67792,305814,waco tx,waco tx
+2024,47460,"Walla Walla, WA","Walla Walla, WA Metro Area",1311,15732,72892,62068,walla walla wa,walla walla wa
+2024,47580,"Warner Robins, GA","Warner Robins, GA Metro Area",1279,15348,78028,204110,warner robins ga,warner robins ga
+2024,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",2037,24444,126244,6437907,washington arlington alexandria dc va md wv,washington arlington alexandria dc va md wv
+2024,47930,"Waterbury-Shelton, CT","Waterbury-Shelton, CT Metro Area",1407,16884,79889,462220,waterbury shelton ct,waterbury shelton ct
+2024,47940,"Waterloo-Cedar Falls, IA","Waterloo-Cedar Falls, IA Metro Area",1047,12564,72382,170081,waterloo cedar falls ia,waterloo cedar falls ia
+2024,48060,"Watertown-Fort Drum, NY","Watertown-Fort Drum, NY Metro Area",1226,14712,70624,113140,watertown fort drum ny,watertown fort drum ny
+2024,48140,"Wausau, WI","Wausau, WI Metro Area",1023,12276,78721,139091,wausau wi,wausau wi
+2024,48260,"Weirton-Steubenville, WV-OH","Weirton-Steubenville, WV-OH Metro Area",833,9996,60159,112738,weirton steubenville wv oh,weirton steubenville wv oh
+2024,48300,"Wenatchee-East Wenatchee, WA","Wenatchee-East Wenatchee, WA Metro Area",1375,16500,79977,127023,wenatchee east wenatchee wa,wenatchee east wenatchee wa
+2024,48540,"Wheeling, WV-OH","Wheeling, WV-OH Metro Area",775,9300,55531,135136,wheeling wv oh,wheeling wv oh
+2024,48620,"Wichita, KS","Wichita, KS Metro Area",1010,12120,71810,661217,wichita ks,wichita ks
+2024,48660,"Wichita Falls, TX","Wichita Falls, TX Metro Area",1065,12780,66981,149869,wichita falls tx,wichita falls tx
+2024,48680,"Wildwood-The Villages, FL","Wildwood-The Villages, FL Metro Area",1155,13860,78807,154693,wildwood villages fl,wildwood villages fl
+2024,48700,"Williamsport, PA","Williamsport, PA Metro Area",934,11208,60403,113236,williamsport pa,williamsport pa
+2024,48900,"Wilmington, NC","Wilmington, NC Metro Area",1578,18936,78890,480522,wilmington nc,wilmington nc
+2024,49020,"Winchester, VA-WV","Winchester, VA-WV Metro Area",1359,16308,81443,148005,winchester va wv,winchester va wv
+2024,49180,"Winston-Salem, NC","Winston-Salem, NC Metro Area",1102,13224,65903,705187,winston salem nc,winston salem nc
+2024,49340,"Worcester, MA","Worcester, MA Metro Area",1563,18756,96602,881248,worcester ma,worcester ma
+2024,49420,"Yakima, WA","Yakima, WA Metro Area",1106,13272,75399,258523,yakima wa,yakima wa
+2024,49620,"York-Hanover, PA","York-Hanover, PA Metro Area",1203,14436,81453,471240,york hanover pa,york hanover pa
+2024,49660,"Youngstown-Warren, OH","Youngstown-Warren, OH Metro Area",838,10056,57812,426086,youngstown warren oh,youngstown warren oh
+2024,49700,"Yuba City, CA","Yuba City, CA Metro Area",1486,17832,81094,186014,yuba city ca,yuba city ca
+2024,49740,"Yuma, AZ","Yuma, AZ Metro Area",1099,13188,66844,220310,yuma az,yuma az
