@@ -1,0 +1,8 @@
+target,model,alpha,n_estimators,max_depth,min_samples_leaf,max_samples,mae,rmse,r2
+RPP-adjusted income after rent,Ridge Regression,0.1,,,,,4796.623206528347,7815.928308933614,0.9313954673216936
+RPP-adjusted income after rent,Ridge Regression,100.0,,,,,4800.613815856282,7832.0133362482,0.9311128031940272
+RPP-adjusted income after rent,Ridge Regression,1.0,,,,,4802.636159070432,7822.8977387463165,0.9312730640365918
+RPP-adjusted income after rent,Ridge Regression,10.0,,,,,4806.765318768291,7828.834914853203,0.9311687040467556
+RPP-adjusted income after rent,Random Forest,,100.0,14.0,30.0,0.75,4567.101834247845,7695.266705280596,0.9334973381708814
+RPP-adjusted income after rent,Random Forest,,60.0,10.0,50.0,0.75,4567.150882826012,7717.628850435651,0.9331102682946407
+RPP-adjusted income after rent,Random Forest,,120.0,16.0,20.0,0.75,4568.026474088558,7689.826351603426,0.9335913362410668

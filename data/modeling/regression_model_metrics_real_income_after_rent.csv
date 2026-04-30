@@ -1,0 +1,23 @@
+target,model,split,mae,rmse,r2
+RPP-adjusted income after rent,Tuned Random Forest,test,4696.224513632417,7806.9060004360035,0.9337665504181367
+RPP-adjusted income after rent,Random Forest,test,4705.8303796459,7809.889941461108,0.9337159094913478
+RPP-adjusted income after rent,Persistence Baseline,test,4733.409645385357,8128.086454207344,0.9282046854131394
+RPP-adjusted income after rent,Linear Regression,test,4813.155255679723,7835.298122222819,0.9332839193530912
+RPP-adjusted income after rent,Tuned Ridge Regression,test,4813.804841701255,7836.2733854978,0.9332673099550383
+RPP-adjusted income after rent,Ridge Regression,test,4817.267231369706,7840.793631049523,0.9331903000981179
+RPP-adjusted income after rent,Train Mean Baseline,test,22072.19022799355,30808.24426829982,-0.03146233097268358
+RPP-adjusted income after rent,Random Forest,train,4163.103745829791,6837.2841049123035,0.9378366035231291
+RPP-adjusted income after rent,Tuned Random Forest,train,4334.014271747397,7093.879339883585,0.9330832134194935
+RPP-adjusted income after rent,Tuned Ridge Regression,train,4724.376188748473,7644.852647272608,0.9222848444210077
+RPP-adjusted income after rent,Ridge Regression,train,4724.381005384712,7645.057384197994,0.9222806817835307
+RPP-adjusted income after rent,Linear Regression,train,4724.43731049167,7644.84398976246,0.9222850204399313
+RPP-adjusted income after rent,Persistence Baseline,train,4921.248293379663,8182.057811689926,0.9109789791080862
+RPP-adjusted income after rent,Train Mean Baseline,train,20823.087907164012,27423.081762604455,0.0
+RPP-adjusted income after rent,Tuned Random Forest,val,4567.101834247845,7695.266705280596,0.9334973381708814
+RPP-adjusted income after rent,Random Forest,val,4568.586320758033,7690.826777092738,0.9335740559440799
+RPP-adjusted income after rent,Linear Regression,val,4795.230483164086,7814.271995162228,0.931424540923123
+RPP-adjusted income after rent,Tuned Ridge Regression,val,4796.623206528347,7815.928308933614,0.9313954673216936
+RPP-adjusted income after rent,Ridge Regression,val,4802.636159070432,7822.8977387463165,0.9312730640365918
+RPP-adjusted income after rent,Persistence Baseline,val,4816.366584623236,8150.843640590923,0.9253900412184233
+RPP-adjusted income after rent,Train Mean Baseline,val,21746.703695876484,30069.89018500979,-0.01544255568841324
+RPP-adjusted income after rent,Tuned Random Forest Refit Train+Val,test,4522.870066759797,7603.394339394283,0.9371747096419637

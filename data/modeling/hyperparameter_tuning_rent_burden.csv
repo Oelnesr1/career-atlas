@@ -1,0 +1,8 @@
+target,model,alpha,n_estimators,max_depth,min_samples_leaf,max_samples,mae,rmse,r2
+Rent burden: annual rent / annual median wage,Ridge Regression,0.1,,,,,0.02451189568016358,0.03480599072544716,0.9255422286406068
+Rent burden: annual rent / annual median wage,Ridge Regression,1.0,,,,,0.024539343790652375,0.034826163212758374,0.9254558967378034
+Rent burden: annual rent / annual median wage,Ridge Regression,10.0,,,,,0.024552939545393074,0.03482353704719786,0.9254671387327609
+Rent burden: annual rent / annual median wage,Ridge Regression,100.0,,,,,0.02455365185344347,0.03479028846169048,0.9256093947700976
+Rent burden: annual rent / annual median wage,Random Forest,,60.0,10.0,50.0,0.75,0.02288404111824365,0.03367027966029983,0.9303220315351639
+Rent burden: annual rent / annual median wage,Random Forest,,100.0,14.0,30.0,0.75,0.02289336966090306,0.03347601240174938,0.9311237533103227
+Rent burden: annual rent / annual median wage,Random Forest,,120.0,16.0,20.0,0.75,0.022940909572182682,0.03346077065286621,0.9311864582380104

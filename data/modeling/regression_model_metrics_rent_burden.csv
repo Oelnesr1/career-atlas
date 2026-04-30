@@ -1,0 +1,23 @@
+target,model,split,mae,rmse,r2
+Rent burden: annual rent / annual median wage,Persistence Baseline,test,0.020008900825217387,0.033236114665461815,0.9324788401560389
+Rent burden: annual rent / annual median wage,Random Forest,test,0.022868793992537297,0.03354375674052343,0.9312230684115795
+Rent burden: annual rent / annual median wage,Tuned Random Forest,test,0.02291822863136825,0.03377186991780815,0.9302844573604229
+Rent burden: annual rent / annual median wage,Linear Regression,test,0.025433480122652022,0.03571708135029811,0.9220221381976107
+Rent burden: annual rent / annual median wage,Tuned Ridge Regression,test,0.025440081991254488,0.03572459305459436,0.9219893355042257
+Rent burden: annual rent / annual median wage,Ridge Regression,test,0.025465438996726972,0.035753021235681574,0.9218651306646091
+Rent burden: annual rent / annual median wage,Train Mean Baseline,test,0.10176041544672089,0.12791044721398967,-7.237573697760347e-05
+Rent burden: annual rent / annual median wage,Random Forest,train,0.02044112025407794,0.03201950378327091,0.938729368358905
+Rent burden: annual rent / annual median wage,Tuned Random Forest,train,0.02248208374137713,0.03499893874845473,0.9267963199056111
+Rent burden: annual rent / annual median wage,Tuned Ridge Regression,train,0.023828663238079608,0.03604676099119076,0.9223474616157105
+Rent burden: annual rent / annual median wage,Linear Regression,train,0.02382867340723047,0.03604674962752998,0.9223475105752809
+Rent burden: annual rent / annual median wage,Ridge Regression,train,0.023828754771211484,0.03604710934870824,0.9223459607332198
+Rent burden: annual rent / annual median wage,Persistence Baseline,train,0.02626488796845127,0.039674560694818915,0.9059308074338824
+Rent burden: annual rent / annual median wage,Train Mean Baseline,train,0.1032390563407474,0.12935654829057044,0.0
+Rent burden: annual rent / annual median wage,Persistence Baseline,val,0.020284243441366853,0.033751111470259505,0.9299870799438464
+Rent burden: annual rent / annual median wage,Tuned Random Forest,val,0.02288404111824365,0.03367027966029983,0.9303220315351639
+Rent burden: annual rent / annual median wage,Random Forest,val,0.022930288038251166,0.03345311897994318,0.9312179266411942
+Rent burden: annual rent / annual median wage,Linear Regression,val,0.024504728033389524,0.034800372660430956,0.9255662632870549
+Rent burden: annual rent / annual median wage,Tuned Ridge Regression,val,0.02451189568016358,0.03480599072544716,0.9255422286406068
+Rent burden: annual rent / annual median wage,Ridge Regression,val,0.024539343790652375,0.034826163212758374,0.9254558967378034
+Rent burden: annual rent / annual median wage,Train Mean Baseline,val,0.10166545876411913,0.12755696875346065,-2.3977216401016577e-05
+Rent burden: annual rent / annual median wage,Tuned Random Forest Refit Train+Val,test,0.020753557152293454,0.03230491991664786,0.9362093930951815

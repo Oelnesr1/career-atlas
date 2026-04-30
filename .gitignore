@@ -1,1 +1,4 @@
-data/raw/bls/oesm24ma.zip
+data/raw/
+data/interim/
+data/processed/
+data/modeling/models/
