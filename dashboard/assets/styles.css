@@ -1,0 +1,612 @@
+/* -----------------------------------------------------------------------------
+   Career Atlas Dashboard Styles
+----------------------------------------------------------------------------- */
+
+:root {
+  --color-primary: #1f3b57;
+  --color-secondary: #2f6f9f;
+  --color-accent: #2fbf71;
+  --color-warning: #f59e0b;
+  --color-danger: #dc2626;
+  --color-background: #f5f7fb;
+  --color-card: #ffffff;
+  --color-text: #1f2937;
+  --color-muted: #6b7280;
+  --color-border: #e5e7eb;
+  --color-soft-border: #edf2f7;
+  --shadow-card: 0 12px 28px rgba(15, 23, 42, 0.08);
+  --shadow-soft: 0 6px 18px rgba(15, 23, 42, 0.06);
+  --radius-lg: 18px;
+  --radius-md: 12px;
+  --radius-sm: 8px;
+  --sidebar-width: 360px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+a {
+  color: var(--color-secondary);
+}
+
+.app-root {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(47, 111, 159, 0.16), transparent 32%),
+    radial-gradient(circle at top right, rgba(47, 191, 113, 0.12), transparent 28%),
+    var(--color-background);
+}
+
+/* -----------------------------------------------------------------------------
+   Header
+----------------------------------------------------------------------------- */
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  padding: 28px 36px;
+  background: linear-gradient(135deg, #10263a 0%, #1f3b57 52%, #2f6f9f 100%);
+  color: white;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.20);
+}
+
+.app-title-block {
+  min-width: 0;
+}
+
+.app-title {
+  margin: 0;
+  font-size: 34px;
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+}
+
+.app-subtitle {
+  margin: 10px 0 0 0;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.84);
+  max-width: 900px;
+}
+
+.year-badge {
+  flex: 0 0 auto;
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+  backdrop-filter: blur(8px);
+}
+
+/* -----------------------------------------------------------------------------
+   Shell layout
+----------------------------------------------------------------------------- */
+
+.app-shell {
+  display: flex;
+  align-items: stretch;
+  width: 100%;
+}
+
+.sidebar {
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  height: calc(100vh - 0px);
+  overflow-y: auto;
+  padding: 26px 22px 32px 22px;
+  background: rgba(255, 255, 255, 0.92);
+  border-right: 1px solid var(--color-border);
+  box-shadow: 8px 0 22px rgba(15, 23, 42, 0.04);
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
+  padding: 26px 30px 42px 30px;
+}
+
+/* -----------------------------------------------------------------------------
+   Sidebar controls
+----------------------------------------------------------------------------- */
+
+.sidebar-brand {
+  margin-bottom: 22px;
+}
+
+.sidebar-title {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--color-primary);
+}
+
+.sidebar-subtitle {
+  font-size: 13px;
+  color: var(--color-muted);
+  margin-top: 4px;
+}
+
+.sidebar-divider {
+  border: 0;
+  border-top: 1px solid var(--color-border);
+  margin: 20px 0;
+}
+
+.sidebar-section-title {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--color-primary);
+  margin-bottom: 12px;
+}
+
+.control-block {
+  margin-bottom: 16px;
+}
+
+.control-label,
+.weight-label {
+  display: block;
+  margin-bottom: 7px;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #374151;
+}
+
+.control-dropdown .Select-control,
+.control-dropdown .Select-menu-outer {
+  border-color: var(--color-border);
+  border-radius: var(--radius-sm);
+}
+
+.slider-label-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.slider-value {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-secondary);
+}
+
+.control-slider {
+  padding: 8px 4px 0 4px;
+}
+
+.rc-slider-track {
+  background-color: var(--color-secondary);
+}
+
+.rc-slider-handle {
+  border-color: var(--color-secondary);
+}
+
+.rc-slider-handle:hover,
+.rc-slider-handle:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 5px rgba(47, 111, 159, 0.15);
+}
+
+.weight-slider-container {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.weight-slider-block {
+  padding: 12px 12px 10px 12px;
+  background: #f8fafc;
+  border: 1px solid var(--color-soft-border);
+  border-radius: var(--radius-md);
+}
+
+.weight-slider {
+  padding: 7px 2px 0 2px;
+}
+
+.weight-description {
+  margin-top: 8px;
+  font-size: 11px;
+  line-height: 1.35;
+  color: var(--color-muted);
+}
+
+.weight-summary {
+  margin-top: 16px;
+  padding: 13px 14px;
+  background: #eef6ff;
+  border: 1px solid #d7ebff;
+  border-radius: var(--radius-md);
+}
+
+.weight-summary-title {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--color-primary);
+  margin-bottom: 8px;
+}
+
+.weight-summary-list {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 12px;
+  color: #334155;
+}
+
+.weight-summary-list li {
+  margin-bottom: 4px;
+}
+
+/* -----------------------------------------------------------------------------
+   Tabs
+----------------------------------------------------------------------------- */
+
+.tabs {
+  background: transparent;
+}
+
+.tab {
+  padding: 13px 18px !important;
+  border: 0 !important;
+  background: transparent !important;
+  color: var(--color-muted) !important;
+  font-weight: 700 !important;
+}
+
+.tab--selected {
+  color: var(--color-primary) !important;
+  background: white !important;
+  border-radius: 999px !important;
+  box-shadow: var(--shadow-soft) !important;
+}
+
+.tab-content {
+  padding-top: 24px;
+}
+
+/* Dash default tab class compatibility */
+.dash-tab {
+  padding: 13px 18px !important;
+  border: 0 !important;
+  background: transparent !important;
+  color: var(--color-muted) !important;
+  font-weight: 700 !important;
+}
+
+.dash-tab--selected {
+  color: var(--color-primary) !important;
+  background: white !important;
+  border-radius: 999px !important;
+  box-shadow: var(--shadow-soft) !important;
+}
+
+/* -----------------------------------------------------------------------------
+   Sections, grids, and cards
+----------------------------------------------------------------------------- */
+
+.section-header {
+  margin-bottom: 18px;
+}
+
+.section-title {
+  margin: 0;
+  color: var(--color-primary);
+  font-size: 26px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  font-weight: 850;
+}
+
+.section-subtitle {
+  margin: 8px 0 0 0;
+  color: var(--color-muted);
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 1100px;
+}
+
+.card {
+  background: var(--color-card);
+  border: 1px solid var(--color-soft-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  padding: 20px;
+}
+
+.graph-card {
+  min-height: 480px;
+}
+
+.table-card {
+  min-height: 480px;
+}
+
+.card-title {
+  margin: 0 0 8px 0;
+  color: var(--color-primary);
+  font-size: 17px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.card-subtitle {
+  margin: 0 0 14px 0;
+  color: var(--color-muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.two-column-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 22px;
+  margin-bottom: 22px;
+}
+
+.three-column-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin-bottom: 22px;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(170px, 1fr));
+  gap: 16px;
+  margin-bottom: 22px;
+}
+
+.single-control-row {
+  display: grid;
+  grid-template-columns: minmax(280px, 520px);
+  gap: 18px;
+  margin-bottom: 22px;
+}
+
+.kpi-card {
+  background: linear-gradient(180deg, white 0%, #fbfdff 100%);
+  border: 1px solid var(--color-soft-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  padding: 18px 18px 16px 18px;
+  min-height: 112px;
+}
+
+.kpi-title {
+  font-size: 11px;
+  color: var(--color-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-weight: 800;
+  margin-bottom: 9px;
+}
+
+.kpi-value {
+  font-size: 24px;
+  font-weight: 850;
+  letter-spacing: -0.04em;
+  color: var(--color-primary);
+}
+
+.kpi-subtitle {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+.top-result-banner {
+  grid-column: 1 / -1;
+  background: linear-gradient(135deg, #ecfdf5 0%, #eff6ff 100%);
+  border: 1px solid #bfdbfe;
+  border-left: 6px solid var(--color-accent);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  padding: 18px 22px;
+  margin-bottom: 2px;
+}
+
+.top-result-label {
+  font-size: 12px;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+  margin-bottom: 6px;
+}
+
+.top-result-value {
+  font-size: 26px;
+  font-weight: 900;
+  letter-spacing: -0.035em;
+  color: var(--color-primary);
+  line-height: 1.15;
+}
+
+.top-result-subtitle {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--color-muted);
+  line-height: 1.45;
+}
+
+.warning-panel {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-bottom: 22px;
+}
+
+.warning-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 11px;
+  background: #fff7ed;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* -----------------------------------------------------------------------------
+   Tables
+----------------------------------------------------------------------------- */
+
+.dash-table-container {
+  border-radius: var(--radius-md);
+}
+
+.dash-spreadsheet-container {
+  border-radius: var(--radius-md);
+}
+
+.dash-spreadsheet-inner table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+}
+
+.dash-spreadsheet-inner th {
+  background: #f3f4f6 !important;
+  color: #111827 !important;
+  font-weight: 800 !important;
+}
+
+.dash-spreadsheet-inner td {
+  color: var(--color-text) !important;
+}
+
+/* -----------------------------------------------------------------------------
+   Methodology
+----------------------------------------------------------------------------- */
+
+.methodology-tab {
+  display: grid;
+  gap: 20px;
+}
+
+.methodology-list {
+  margin: 0;
+  padding-left: 20px;
+  color: #374151;
+  line-height: 1.65;
+}
+
+.formula-box {
+  background: #0f172a;
+  color: #e5e7eb;
+  border-radius: var(--radius-md);
+  padding: 18px;
+  overflow-x: auto;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+/* -----------------------------------------------------------------------------
+   Error layout
+----------------------------------------------------------------------------- */
+
+.startup-error-root {
+  padding: 30px;
+}
+
+.startup-error-card {
+  max-width: 1000px;
+  margin: 30px auto;
+}
+
+.error-box {
+  background: #fff1f2;
+  color: #991b1b;
+  border: 1px solid #fecdd3;
+  border-radius: var(--radius-md);
+  padding: 16px;
+  white-space: pre-wrap;
+  overflow-x: auto;
+}
+
+/* -----------------------------------------------------------------------------
+   Dash / Plotly tweaks
+----------------------------------------------------------------------------- */
+
+.js-plotly-plot .plotly .modebar {
+  opacity: 0.25;
+}
+
+.js-plotly-plot .plotly .modebar:hover {
+  opacity: 1;
+}
+
+/* -----------------------------------------------------------------------------
+   Responsive
+----------------------------------------------------------------------------- */
+
+@media (max-width: 1280px) {
+  :root {
+    --sidebar-width: 320px;
+  }
+
+  .kpi-grid {
+    grid-template-columns: repeat(2, minmax(170px, 1fr));
+  }
+
+  .two-column-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 900px) {
+  .app-header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+  }
+
+  .app-shell {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    position: relative;
+    width: 100%;
+    min-width: 0;
+    height: auto;
+    border-right: 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+
+  .three-column-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .kpi-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .app-title {
+    font-size: 29px;
+  }
+}
